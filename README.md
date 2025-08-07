@@ -93,8 +93,9 @@ CREATE TABLE fabrication_item (
 ```
 
 ## Screeshots Of Output:
+<img width="1366" height="768" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/a4824b2c-d9b0-4c65-8ab3-af0f19d7cef4" />
 
-
+<img width="1366" height="768" alt="Screenshot (157)" src="https://github.com/user-attachments/assets/7ed74fd5-1953-4b75-844e-707896fb3dcb" />
 
 ## 📞Contact:
 
@@ -105,6 +106,7 @@ Your Name : shruti thorat
 Email: shrutithorat767@gmail.com
 
 GitHub: shruti-thorat0715
+
 
 
 
