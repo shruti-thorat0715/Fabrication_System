@@ -66,10 +66,12 @@ fabrication-system/
 ## PostgreSQL Setup
   
   **Create database:**
-
+```
 -CREATE DATABASE fabrication_db;
-
+```
 **Create Database Table:**
+
+```
 
 CREATE TABLE fabrication_item (
     id SERIAL PRIMARY KEY,
@@ -78,13 +80,17 @@ CREATE TABLE fabrication_item (
     quantity INTEGER
 );
 
+```
 
 ## Update Database Credentials:
 
+```
 -spring.datasource.url=jdbc:postgresql://localhost:5432/fabrication_system_db
 -spring.datasource.username=postgres
 -spring.datasource.password=shrutu
 -spring.jpa.hibernate.ddl-auto=update
+
+```
 
 ## Screeshots Of Output:
 
@@ -99,6 +105,7 @@ Your Name : shruti thorat
 Email: shrutithorat767@gmail.com
 
 GitHub: shruti-thorat0715
+
 
 
 
